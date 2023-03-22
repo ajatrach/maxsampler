@@ -2,7 +2,7 @@
 	"name" : "Max Piano Sampler",
 	"version" : 1,
 	"creationdate" : 3762274240,
-	"modificationdate" : 3762274365,
+	"modificationdate" : 3762344445,
 	"viewrect" : [ 25.0, 106.0, 700.0, 667.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,6 +14,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"Direction Panning.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
