@@ -2,7 +2,7 @@
 	"name" : "Max Piano Sampler",
 	"version" : 1,
 	"creationdate" : 3762274240,
-	"modificationdate" : 3762361735,
+	"modificationdate" : 3762415557,
 	"viewrect" : [ 25.0, 106.0, 700.0, 667.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -27,6 +27,11 @@
 			}
 ,
 			"Chorus.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"main project.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
