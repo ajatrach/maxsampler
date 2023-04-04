@@ -1,5 +1,5 @@
 # maxsampler
-This Yamaha C7 Piano recording comes from Loyola University Chicago Fine Arts Music Department.
+This Yamaha C7 Piano recording comes from Loyola University Chicago's Fine Arts Music Department.
 
 ### Resources 
 Max Documentation: https://docs.cycling74.com/max8
